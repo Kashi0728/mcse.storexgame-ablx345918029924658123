@@ -1,7 +1,7 @@
 {
     "packs":  [
                   {
-                      "id":  "steam_update_test",
+                      "id":  "su32",
                       "name":  "Up to Date",
                       "description":  "You are up to date!\n\nGame Version SU31",
                       "downloadURI":  "",
