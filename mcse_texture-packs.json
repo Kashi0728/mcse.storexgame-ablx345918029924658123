@@ -1,0 +1,158 @@
+{
+  "packs": [
+    {
+      "id": "caribbean_mcse",
+      "name": "Pirates Of The Caribbean",
+      "description": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring all of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/tppotc26.1.2/02-Pirates.Of.The.Caribbean.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caribbean-store-icon.png"
+    },
+    {
+      "id": "super_cute_mcse",
+      "name": "Super Cute Texture Pack",
+      "description": "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This texture pack comes with 15 skins!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/mcse-tp/03-Super.Cute.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/super_cute-store-icon.png"
+    },
+    {
+      "id": "egyptian_mcse",
+      "name": "Egyptian Mythology",
+      "description": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/mcse-egt-26.1.2-tp/04-Egyptian.Mythology.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/egyptian-store-icon.png"
+    },
+    {
+      "id": "norse_mcse",
+      "name": "Norse Mythology",
+      "description": "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the 9 realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand carved textures, a thunderous soundtrack and a horde of skins. Skål!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/nrs_26.1.2_tp/05-Norse.Mythology.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/norse-store-icon.png"
+    },
+    {
+      "id": "festive_mcse",
+      "name": "Festive",
+      "description": "Celebrate the Festive period with this wintery Mash-Up Pack! This pack contains a Festive style Texture Pack, Skin Pack, new music and a Festive world.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/fsv_26.1.2_tp/06-Festive.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/festive-store-icon.png"
+    },
+    {
+      "id": "chinese_mcse",
+      "name": "Chinese Mythology",
+      "description": "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China. Minecrafters get to explore a Chinese Mythology-themed world, with glorious Textures, legendary Skins and enchanting Music. The Pack also includes a themed Battle map exclusive to this Mash-up!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/chnmyt_26.1.2_tp/07-Chinese.Mythology.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/chinese-store-icon.png"
+    },
+    {
+      "id": "greek_mcse",
+      "name": "Greek Mythology",
+      "description": "Mythical Greece meets Minecraft! This Mash-Up Pack contains a Greek Mythology style Texture Pack, Skin Pack, and a themed world to explore.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/grmyt_26.1.2_tp/08-Greek.Mythology.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/greek-store-icon.png"
+    },
+    {
+      "id": "adventure_mcse",
+      "name": "Adventure Texture Pack",
+      "description": "Are you yearning for an epic journey across the land? Look no further! This is the perfect pack for the adventurous player, brave enough to explore a world far beyond home.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/adv_26.1.2_tp/Adventure.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/adventure-store-icon.png"
+    },
+    {
+      "id": "city_mcse",
+      "name": "City Texture Pack",
+      "description": "A creative texture set, ideal for building structures. The perfect set for the focused builder.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ct_26.1.2_tp/10-City.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/city-store-icon.png"
+    },
+    {
+      "id": "plastic_mcse",
+      "name": "Plastic Texture Pack",
+      "description": "A brightly colored, simple texture pack with chocolate block highlighting and simple icons.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/pl_26.1.2_tp/11-Plastic.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/plastic-store-icon.png"
+    },
+    {
+      "id": "natural_mcse",
+      "name": "Natural Texture Pack",
+      "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ntrl_26.1.2_tp/12-Natural.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/natural-store-icon.png"
+    },
+    {
+      "id": "retro_mcse",
+      "name": "Retro Texture Pack",
+      "description": "Bringing back the classics! 8-Bit glory finally comes to Minecraft! Textures inspired by the artstyle of early video games.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/rtro_26.1.2_tp/Retro.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/retro-store-icon.png"
+    },
+    {
+      "id": "fallout_mcse",
+      "name": "Fallout",
+      "description": "Welcome to the wasteland! Celebrate the Fallout® series in Minecraft by cracking open this Vault containing 44 unique skins, custom textures, re-skinned mobs, a special post-apocalyptic map, original Fallout soundtrack compilation and a Pip-Boy inspired UI.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/fa_26.1.2_tp/13-Fallout.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/fallout-store-icon.png"
+    },
+    {
+      "id": "fantasy_mcse",
+      "name": "Fantasy Texture Pack",
+      "description": "The golden times are here. A medieval, fantasy look for your worlds.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/fts_26.1.2_tp/15-Fantasy.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/fantasy-store-icon.png"
+    },
+    {
+      "id": "candy_mcse",
+      "name": "Candy Texture Pack",
+      "description": "Indulge your sweet tooth with this sugar-coated texture pack!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/cdy_26.1.2_tp/16-Candy.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/candy-store-icon.png"
+    },
+    {
+      "id": "cartoon_mcse",
+      "name": "Cartoon Texture Pack",
+      "description": "A Minecraft texture pack to surprise and amuse you. Even the spiders are happy!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ctn_26.1.2_tp/17-Cartoon.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/cartoon-store-icon.png"
+    },
+    {
+      "id": "steampunk_mcse",
+      "name": "Steampunk Texture Pack",
+      "description": "Create your own Industrial Revolution with this Victorian inspired Steampunk texture pack!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/sp_26.1.2_tp/18-Steampunk.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/steampunk-store-icon.png"
+    },
+    {
+      "id": "pattern_mcse",
+      "name": "Pattern Texture Pack",
+      "description": "Decorate your world with this bright and colorful texture pack filled with beautiful patterns and knitted animals!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ptn_26.1.2_tp/19-Pattern.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/pattern-store-icon.png"
+    },
+    {
+      "id": "barebones_mcse",
+      "name": "Bare Bones Texture Pack",
+      "description": "Do you want to live the simple life? Bare Bones does just that! A texture pack based on simplified textures and vibrant colors.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/bb_26.1.2_tp/Bare.Bones.Texture.Pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/barebones-store-icon.png"
+    },
+    {
+      "id": "n7_mcse",
+      "name": "Mass Effect",
+      "description": "Mass Effect meets Minecraft! This Mash-Up Pack contains a Mass Effect style Texture Pack, and a Skin Pack with 36 Mass Effect characters!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/n7_26.1.2_tp/21-Mass.Effect.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/n7-store-icon.png"
+    },
+    {
+      "id": "halloween_mcse",
+      "name": "Halloween 2015",
+      "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/hlwn_26.1.2_tp/22-Halloween.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/halloween-store-icon.png"
+    },
+    {
+      "id": "mario_mcse",
+      "name": "Super Mario",
+      "description": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario style Texture Pack, Skin Pack, and a Super Mario themed world to explore!",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/sm_26.1.2_tp/23-Super.Mario.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mario-store-icon.png"
+    }
+  ]
+}
