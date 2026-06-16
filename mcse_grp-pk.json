@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "vibrant_visuals",
+                      "name":  "Vibrant Visuals",
+                      "description":  "Make your world a little more vibrant! Bring fresh but familiar feeling visuals to your Minecraft with improved/dynamic lighting, water reflections, and pixelated shadows (Steam Deck LCD/OLED Compatible). (Restart Required)",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/vibrant_visuals.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/vibrant-visuals.png"
+                  }
+              ]
+}
