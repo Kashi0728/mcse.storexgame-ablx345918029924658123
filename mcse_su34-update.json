@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "su34",
+                      "name":  "Up to Date",
+                      "description":  "You are up to date!\n\nGame Version: SU33",
+                      "downloadURI":  "",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-update.png"
+                  }
+              ]
+}
