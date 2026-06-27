@@ -16,6 +16,20 @@
                   },
                   {
                       "id":  "assets",
+                      "name":  "The Copper Age (Coming Soon)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/copper-age-panorama.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/copper-age-panorama.png"
+                  },
+                  {
+                      "id":  "assets",
+                      "name":  "Chase the Skies (Coming Soon)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/chase-the-skies-panorama.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/chase-the-skies-panorama.png"
+                  },
+                  {
+                      "id":  "assets",
                       "name":  "Spring to Life",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/spring-to-life-panorama.zip",
