@@ -50,13 +50,6 @@
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/greek-store-icon.png"
     },
     {
-      "id": "adventure_mcse",
-      "name": "Adventure Texture Pack",
-      "description": "Are you yearning for an epic journey across the land? Look no further! This is the perfect pack for the adventurous player, brave enough to explore a world far beyond home.",
-      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/adv_26.1.2_tp/Adventure.Texture.Pack.zip",
-      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/adventure-store-icon.png"
-    },
-    {
       "id": "city_mcse",
       "name": "City Texture Pack",
       "description": "A creative texture set, ideal for building structures. The perfect set for the focused builder.",
@@ -76,13 +69,6 @@
       "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.",
       "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ntrl_26.1.2_tp/12-Natural.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/natural-store-icon.png"
-    },
-    {
-      "id": "retro_mcse",
-      "name": "Retro Texture Pack",
-      "description": "Bringing back the classics! 8-Bit glory finally comes to Minecraft! Textures inspired by the artstyle of early video games.",
-      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/rtro_26.1.2_tp/Retro.Texture.Pack.zip",
-      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/retro-store-icon.png"
     },
     {
       "id": "fallout_mcse",
@@ -125,13 +111,6 @@
       "description": "Decorate your world with this bright and colorful texture pack filled with beautiful patterns and knitted animals!",
       "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ptn_26.1.2_tp/19-Pattern.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/pattern-store-icon.png"
-    },
-    {
-      "id": "barebones_mcse",
-      "name": "Bare Bones Texture Pack",
-      "description": "Do you want to live the simple life? Bare Bones does just that! A texture pack based on simplified textures and vibrant colors.",
-      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/bb_26.1.2_tp/Bare.Bones.Texture.Pack.zip",
-      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/barebones-store-icon.png"
     },
     {
       "id": "n7_mcse",
