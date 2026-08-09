@@ -16,6 +16,13 @@
                   },
                   {
                       "id":  "assets",
+                      "name":  "Title Update 31 (Classic)",
+                      "description":  "A Panorama to customize your main menu.\n\nIncludes a matching tutorial world!",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu31-classic-panorama.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu31-classic-panorama.png"
+                  },
+                  {
+                      "id":  "assets",
                       "name":  "Title Update 20 (Classic)",
                       "description":  "A Panorama to customize your main menu.\n\nIncludes a matching tutorial world!",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu20-classic-panorama.zip",
