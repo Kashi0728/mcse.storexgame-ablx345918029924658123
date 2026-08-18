@@ -1,11 +1,11 @@
 {
   "packs": [
     {
-      "id": "mcse_c418",
-      "name": "Rosenfeld Music Pack",
-      "description": "The music that started it all. The iconic Minecraft soundtrack returns in the Rosenfeld Music Pack, featuring nothing but the classic tracks composed by the one and only Daniel Rosenfeld (C418).",
-      "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/rosenfeld_music_pack.zip",
-      "imageUrl": "",
+      "id": "mcse_music_pack",
+      "name": "C418 Music Pack",
+      "description": "The music that started it all.\n\nThe iconic Minecraft soundtrack returns in the C418 Music Pack, featuring nothing but the classic music from 2009-2018.\n\nComposed by the one and only Daniel Rosenfeld (C418).",
+      "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418_music_pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418-music-pack.png",
       "tags": ["auto_apply_resource_pack"]
     },
     {
