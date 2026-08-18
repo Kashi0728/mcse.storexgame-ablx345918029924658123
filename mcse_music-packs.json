@@ -1,7 +1,7 @@
 {
   "packs": [
     {
-      "id": "mcse_music_pack",
+      "id": "mcse_c418",
       "name": "C418 Music Pack",
       "description": "The music that started it all.\n\nThe iconic Minecraft soundtrack returns in the C418 Music Pack, featuring nothing but the classic music from 2009-2018.\n\nComposed by the one and only Daniel Rosenfeld (C418).",
       "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418_music_pack.zip",
@@ -9,11 +9,11 @@
       "tags": ["auto_apply_resource_pack"]
     },
     {
-      "id": "glide",
-      "name": "Glide Mini Game Soundtrack",
-      "description": "Relive the fast-paced scuffles of Legacy Console Edition's Glide Mini Game with its energising soundtrack, featuring music composed by Gareth Coker.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/glide.zip?checksum=3fd203daafc4df58a1057ee584ccadad",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/glide_preview.png?checksum=e49231dadd98d07322e999976b18b057",
+      "id": "mcse_c418_plus",
+      "name": "C418+ Music Pack",
+      "description": "Perfect for the ultimate C418 fan.\n\nThis music pack includes all music found in the standard C418 Music Pack but expands upon it by adding unused songs from Volume Alpha/Beta so you can enjoy Minecraft even more!\n\nComposed by the one and only Daniel Rosenfeld (C418).",
+      "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418_plus_music_pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418-plus-music-pack.png",
       "tags": ["auto_apply_resource_pack"]
     },
     {
