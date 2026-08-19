@@ -13,6 +13,13 @@
       "description": "Perfect for the ultimate C418 fan.\n\nThis pack includes all music found in the standard C418 Music Pack but expands upon it by adding unused songs from Volume Alpha/Beta so you can enjoy Minecraft even more!\n\nComposed by the one and only Daniel Rosenfeld (C418).",
       "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418_plus_music_pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/c418-plus-music-pack.png"
+    },
+    {
+      "id": "assets",
+      "name": "Story Mode Music Pack",
+      "description": "Nothing built can last forever.\n\nRelive the amazing songs from Minecraft Story Mode Season 1/Season 2's OST that retell the heroic story of Jesse and his best friends.\n\nComposed by Skyler Barto & Andrew Arcadi.",
+      "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/storymode_music_pack.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/storymode-music-pack.png"
     }
   ]
 }
