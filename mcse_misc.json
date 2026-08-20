@@ -12,7 +12,7 @@
                       "name":  "Pre-Spring to Life Leaves",
                       "description":  "Removes all falling leaf particles introduced in the Spring to Life update (1.21.5)",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-leaves.zip",
-                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png",
                       "tags": ["auto_apply_resource_pack"]
                   }
               ]
