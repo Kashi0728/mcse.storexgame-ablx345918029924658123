@@ -4,7 +4,7 @@
                       "id":  "assets",
                       "name":  "Pre-Update Aquatic Water",
                       "description":  "Bring the classic bright blue water to modern Minecraft!",
-                      "targetDirectoryName": "shaderpacks",
+                      "targetDirectoryName": "resourcepacks",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
                   }
