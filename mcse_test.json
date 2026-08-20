@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": "mcse_misc",
+      "title": {
+        "text": "Pre-Update Aquatic Water"
+      },
+      "targetDirectoryName": "resourcepacks/pre_1_13_waters",
+      "items": [
+        {
+          "id": "assets",
+          "name": "Pre-Update Aquatic Water",
+          "description": "Bring the classic bright blue water to modern Minecraft!",
+          "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.zip",
+          "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
+        }
+      ]
+    },
+    {
+      "id": "mcse_misc_leaf",
+      "title": {
+        "text": "Classic Visuals"
+      },
+      "targetDirectoryName": "shaderpacks",
+      "items": [
+        {
+          "id": "leaf",
+          "name": "no leafs",
+          "description": "A test item downloading straight to the shaderpacks folder.",
+          "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.zip",
+          "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
+        }
+      ]
+    }
+  ]
+}
