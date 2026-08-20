@@ -1,7 +1,7 @@
 {
     "packs":  [
                   {
-                      "id":  "assets",
+                      "id":  "pre_1_13_waters",
                       "name":  "Pre-Update Aquatic Water",
                       "description":  "Bring the classic bright blue water to modern Minecraft!",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.zip",
