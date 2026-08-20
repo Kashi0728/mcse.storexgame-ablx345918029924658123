@@ -6,7 +6,6 @@
                       "description":  "Bring the classic bright blue water to modern Minecraft!",
                       "bundlePacks":  [
                                           {
-                                              "categoryId":  "mcse_misc",
                                               "id":  "assets",
                                               "name":  "Pre-Update Aquatic Water",
                                               "description":  "Bring the classic bright blue water to modern Minecraft!",
