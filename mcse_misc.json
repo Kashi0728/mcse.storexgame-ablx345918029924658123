@@ -10,7 +10,7 @@
                   {
                       "id":  "no_leaves",
                       "name":  "Pre-Spring to Life Leaves",
-                      "description":  "Removes all falling leaf particles introduced in the Spring to Life update (DV4)",
+                      "description":  "Removes all falling leaf particles introduced in the Spring to Life update.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-leaves.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-leaves.png",
                       "tags": ["auto_apply_resource_pack"]
