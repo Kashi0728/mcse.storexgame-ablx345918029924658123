@@ -114,9 +114,9 @@
     },
     {
       "id": "lbp_mcse",
-      "name": "LittleBigPlanet™ (In Development)",
+      "name": "LittleBigPlanet™",
       "description": "LittleBigPlanet™ meets Minecraft! This Mash-Up Pack contains a LittleBigPlanet™ style Texture Pack, Skin Pack, and a LittleBigPlanet™ themed world to explore!",
-      "downloadURI": "",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/lbp_26.1.2_tp/LittleBigPlanet.Mash-up.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/lbp-store-icon.png"
     },
     {
