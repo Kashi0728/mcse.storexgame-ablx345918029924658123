@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "steam_update_test_alpha",
+                      "name":  "Up to Date",
+                      "description":  "You are up to date!\n\nGame Version: 26.3 Alpha",
+                      "downloadURI":  "",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-update.png"
+                  }
+              ]
+}
