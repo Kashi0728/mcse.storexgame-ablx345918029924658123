@@ -2,10 +2,17 @@
     "packs":  [
                   {
                       "id":  "custom_261",
-                      "name":  "Default",
+                      "name":  "Title Update 69",
                       "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-menu-world.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-menu-world-pa.png"
+                  },
+                  {
+                      "id":  "custom_261",
+                      "name":  "Title Update 46",
+                      "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu46-menu-world.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu46-menu-world-pa.png"
                   }
               ]
 }
